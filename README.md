@@ -5,6 +5,7 @@ This is a contribution for the official [Proxy-Anchor Loss](https://github.com/t
 ## Contribution
 This repositury provide the code to support training of Proxy-Anchor Loss on [Caltech-256 Dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech256/).
 ## Steps
+1. Clone the official repository from [here](https://github.com/tjddus9597/Proxy-Anchor-CVPR2020)
 1. Replace code/train.py with train.py from this repositry
 1. Copy __init__.py and caltech256 to code/dataset
 1. Downalod Caltech-256 dataset from [here](http://www.vision.caltech.edu/Image_Datasets/Caltech256/).
